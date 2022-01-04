@@ -4,4 +4,4 @@ A small Tolkien-inspired mod that brings to minecraft some of the greatest treas
 
 ## License 
 
-This mod is avaliable under the MIT license# DwarvenTreasures
+This mod is avaliable under the MIT license
