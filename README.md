@@ -5,3 +5,6 @@ A small Tolkien-inspired mod that brings to minecraft some of the greatest treas
 ## License 
 
 This mod is avaliable under the MIT license
+
+## Contributing
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md)
