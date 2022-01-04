@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "mithril_ingot",
+  "ingredient": {
+    "item": "dwarventreasures:mithril_goblet"
+  },
+  "result": "dwarventreasures:mithril_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

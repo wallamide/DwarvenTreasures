@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dwarventreasures:mithril_block",
+    "dwarventreasures:chiseled_mithril",
+    "dwarventreasures:polished_mithril",
+    "dwarventreasures:mithril_plate",
+    "dwarventreasures:mithril_tile",
+    "dwarventreasures:inverted_mithril_tile"
+  ]
+}

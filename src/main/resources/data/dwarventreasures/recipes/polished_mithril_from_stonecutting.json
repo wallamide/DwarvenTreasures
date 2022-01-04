@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "dwarventreasures:mithril_plate"
+  },
+  "result": "dwarventreasures:polished_mithril",
+  "count": 1
+
+}

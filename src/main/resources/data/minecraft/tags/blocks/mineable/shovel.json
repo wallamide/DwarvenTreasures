@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "dwarventreasures:copper_coin_pile",
+    "dwarventreasures:gold_coin_pile",
+    "dwarventreasures:debris_coin_pile",
+    "dwarventreasures:netherite_coin_pile",
+    "dwarventreasures:mithril_coin_pile",
+    "dwarventreasures:silver_coin_pile",
+    "dwarventreasures:oceanic_gold_coin_pile"
+  ]
+}

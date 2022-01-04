@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mithril_plate",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "dwarventreasures:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "dwarventreasures:mithril_plate",
+    "count": 12
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "dwarventreasures:block/copper_coin_pile_side",
+    "top": "dwarventreasures:block/copper_coin_pile_top"
+  }
+}

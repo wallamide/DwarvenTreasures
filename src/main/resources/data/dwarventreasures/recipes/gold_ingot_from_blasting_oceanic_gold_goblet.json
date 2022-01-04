@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "gold_ingot",
+  "ingredient": {
+    "item": "dwarventreasures:oceanic_gold_goblet"
+  },
+  "result": "minecraft:gold_ingot",
+  "experience": 2.0,
+  "cookingtime": 100
+}

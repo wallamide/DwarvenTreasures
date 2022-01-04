@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "dwarventreasures:copper_ring",
+    "dwarventreasures:gold_ring",
+    "dwarventreasures:debris_ring",
+    "dwarventreasures:netherite_ring",
+    "dwarventreasures:mithril_ring",
+    "dwarventreasures:silver_ring",
+    "dwarventreasures:oceanic_gold_ring"
+
+  ]
+}

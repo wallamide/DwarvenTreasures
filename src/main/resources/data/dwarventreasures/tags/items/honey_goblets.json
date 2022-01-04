@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "dwarventreasures:copper_goblet_of_honey",
+    "dwarventreasures:golden_goblet_of_honey",
+    "dwarventreasures:debris_goblet_of_honey",
+    "dwarventreasures:netherite_goblet_of_honey",
+    "dwarventreasures:mithril_goblet_of_honey",
+    "dwarventreasures:silver_goblet_of_honey",
+    "dwarventreasures:oceanic_gold_goblet_of_honey"
+  ]
+}

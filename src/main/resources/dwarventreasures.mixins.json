@@ -1,0 +1,21 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "tk.dwarventreasures.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "goblet.BeehiveBlockMixin",
+    "goblet.CowEntityMixin",
+    "goblet.EntityMixin",
+    "goblet.GoatEntityMixin",
+    "goblet.PassiveEntityMixin",
+    "trinket.EntityMixin",
+    "trinket.LivingEntityMixin",
+    "trinket.PlayerEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

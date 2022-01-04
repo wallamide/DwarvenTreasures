@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bucket",
+    "minecraft:glass_bottle",
+    "dwarventreasures:copper_goblet",
+    "dwarventreasures:golden_goblet",
+    "dwarventreasures:debris_goblet",
+    "dwarventreasures:netherite_goblet",
+    "dwarventreasures:mithril_goblet",
+    "dwarventreasures:silver_goblet",
+    "dwarventreasures:oceanic_gold_goblet"
+
+  ]
+}

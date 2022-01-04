@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "dwarventreasures:mithril_ingot"
+  },
+  "result": {
+    "item": "dwarventreasures:mithril_pickaxe"
+  }
+}

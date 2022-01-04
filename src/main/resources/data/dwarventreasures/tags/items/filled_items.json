@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:potion",
+    "minecraft:honey_bottle",
+    "minecraft:milk_bucket",
+    "minecraft:water_bucket",
+    "#dwarventreasures:milk_goblets",
+    "#dwarventreasures:honey_goblets",
+    "dwarventreasures:copper_goblet_of_water",
+    "dwarventreasures:golden_goblet_of_water",
+    "dwarventreasures:debris_goblet_of_water",
+    "dwarventreasures:debris_goblet_of_lava",
+    "dwarventreasures:netherite_goblet_of_water",
+    "dwarventreasures:netherite_goblet_of_lava",
+    "dwarventreasures:mithril_goblet_of_water",
+    "dwarventreasures:silver_goblet_of_water",
+    "dwarventreasures:oceanic_gold_goblet_of_water"
+
+
+  ]
+}

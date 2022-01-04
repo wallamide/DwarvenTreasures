@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dwarventreasures:block/inverted_mithril_tile"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "dwarventreasures:oceanic_gold_coin"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot"
+  }
+}
