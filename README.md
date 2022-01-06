@@ -11,4 +11,4 @@ Please see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # Social Media:
 
-![https://discord.gg/8hUCjdQrSP](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)
+![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)(https://discord.gg/8hUCjdQrSP)
