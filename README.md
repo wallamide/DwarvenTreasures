@@ -8,3 +8,7 @@ This mod is avaliable under the MIT license
 
 ## Contributing
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+# Social Media:
+
+![https://discord.gg/8hUCjdQrSP](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)
