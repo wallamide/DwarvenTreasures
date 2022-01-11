@@ -18,7 +18,7 @@ import java.util.List;
 
 public class MithrilAxeItem extends AxeItem {
 
-    private static final float ATTUNED_BOOST = 4.0F;
+    private static final float ATTUNED_BOOST = 12.0F;
 
     public MithrilAxeItem(ToolMaterial material, float attackDamage, float attackSpeed, Settings settings) {
         super(material, attackDamage, attackSpeed, settings);
