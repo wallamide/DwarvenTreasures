@@ -176,7 +176,7 @@ public class DTObjects {
         return AbstractBlock.Settings.of(Material.METAL).strength(0.3F, 1.0F).nonOpaque();
     }
     private static AbstractBlock.Settings coinPileBlock() {
-        return AbstractBlock.Settings.of(Material.DECORATION).ticksRandomly().strength(0.5F)
+        return AbstractBlock.Settings.of(Material.DECORATION).ticksRandomly().strength(0.5F);
     }
 
     public static void init() {
