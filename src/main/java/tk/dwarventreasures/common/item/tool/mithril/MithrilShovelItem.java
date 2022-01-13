@@ -17,7 +17,7 @@ import tk.dwarventreasures.common.item.util.AttunedItemUtil;
 import java.util.List;
 
 public class MithrilShovelItem extends ShovelItem {
-    private static final float ATTUNED_BOOST = 4.0F;
+    private static final float ATTUNED_BOOST = 12.0F;
 
     public MithrilShovelItem(ToolMaterial material, float attackDamage, float attackSpeed, Settings settings) {
         super(material, attackDamage, attackSpeed, settings);

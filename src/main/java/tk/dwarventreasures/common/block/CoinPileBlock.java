@@ -46,7 +46,7 @@ public class CoinPileBlock extends FallingBlock {
                 return true;
             }
         } else {
-            return layer == 1;
+            return false;
         }
     }
 
